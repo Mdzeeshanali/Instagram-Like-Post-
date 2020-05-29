@@ -1,0 +1,1 @@
+node instagram.js instacreds.json "thegoodquote" 10
